@@ -22,7 +22,8 @@ list_of_files = [
     "main.py",
     "logs.py",
     "exception.py",
-    "setup.py"
+    "setup.py",
+    "pipeline.txt"
 ]
 
 for filepth in list_of_files:
